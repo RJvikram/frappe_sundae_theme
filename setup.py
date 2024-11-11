@@ -10,7 +10,7 @@ setup(
 	name="sundae_theme",
 	version=version,
 	description="multi themes for frappe & erpnext apps",
-	author="Vikram Kumar",
+	author="vikram kumar",
 	author_email="vikram.kumar@softude.com",
 	packages=find_packages(),
 	zip_safe=False,
