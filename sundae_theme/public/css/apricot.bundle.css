@@ -295,7 +295,7 @@ input:focus{
 
 /* Heading Color */
 [data-theme=apricot] .head-title, .form-section .section-head, .form-dashboard-section .section-head, .comment-box .comment-input-header{
-    color: var(--primary-color);
+    color: white;
 }
 
 /* Lists */
